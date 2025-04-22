@@ -7,9 +7,15 @@
     <title>Responsive Menu Demo</title>
     <style>
         body {
+            background: #f8f8f8;
+        }
+        .main {
             font-family: sans-serif;
             padding: 2rem;
-            background: #f8f8f8;
+        }
+        .resize {
+            width: 100%;
+            text-align: center;
         }
 
         .menu-wrapper {
@@ -20,6 +26,7 @@
             border-radius: 6px;
             max-width: 100%;
             box-sizing: border-box;
+            margin-bottom: 3rem;
         }
 
         .menu-container {
@@ -136,6 +143,7 @@
 </head>
 
 <body>
+    <div class="main">
     <div class="menu-wrapper">
         <div class="menu-container">
             <div class="menu-item item-1" id="btn1"><span class="star">★</span>Label1</div>
@@ -153,6 +161,9 @@
         <div class="filter-dropdown">
             <span class="clock">🕒</span> Last 1 hour <span class="chevron">▼</span>
         </div>
+        
+    </div>
+    <div class="resize">← Resize browser  →</div>
         <script>
             function toggleDropdown(event) {
                 event.stopPropagation();
