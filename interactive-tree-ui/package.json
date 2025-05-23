@@ -2,7 +2,7 @@
   "name": "interactive-tree-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dborodyansky.github.io/playground/interactive-tree-ui",
+  "homepage": "https://dborodyansky.github.io/playground/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
