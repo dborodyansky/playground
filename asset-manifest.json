@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/playground/static/css/main.073c9b0a.css",
-    "main.js": "/playground/static/js/main.279730cb.js",
-    "static/js/787.28cb0dcd.chunk.js": "/playground/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/playground/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/playground/index.html",
-    "main.073c9b0a.css.map": "/playground/static/css/main.073c9b0a.css.map",
-    "main.279730cb.js.map": "/playground/static/js/main.279730cb.js.map",
-    "787.28cb0dcd.chunk.js.map": "/playground/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/playground/interactive-tree-ui/static/css/main.f0917260.css",
+    "main.js": "/playground/interactive-tree-ui/static/js/main.c36f0271.js",
+    "static/js/453.36c4c0a0.chunk.js": "/playground/interactive-tree-ui/static/js/453.36c4c0a0.chunk.js",
+    "index.html": "/playground/interactive-tree-ui/index.html",
+    "main.f0917260.css.map": "/playground/interactive-tree-ui/static/css/main.f0917260.css.map",
+    "main.c36f0271.js.map": "/playground/interactive-tree-ui/static/js/main.c36f0271.js.map",
+    "453.36c4c0a0.chunk.js.map": "/playground/interactive-tree-ui/static/js/453.36c4c0a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.279730cb.js"
+    "static/css/main.f0917260.css",
+    "static/js/main.c36f0271.js"
   ]
 }
